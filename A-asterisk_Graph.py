@@ -1,5 +1,3 @@
-
-
 nazwa_pliku = "1.txt"
 
 import sys
